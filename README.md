@@ -63,9 +63,6 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects  
 🎮 **TicTacToe Game (Java)** – AI difficulty & tournament mode  
-📱 **Moodly App** – Emotional journaling app with AI features  
-🧩 **OOP Systems (C++)** – Templates, data structures & memory management  
-🖨️ **3D Printing Designs** – Custom accessories & tools  
 
 ---
 
@@ -78,9 +75,9 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Contact Me  
-💼 **LinkedIn:** *(add link here)*  
-📧 **Email:** *(add email here)*  
-💻 **GitHub:** https://github.com/Roiatia  
+💼 **LinkedIn:** www.linkedin.com/in/roi-atia-410300361**  
+📧 **Email:** *roiatia6@gmail.com*  
+
 
 ---
 
