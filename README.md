@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me  
 🎓 Computer Science student at **Sapir College**  
-💼 Assistant Store Manager at **Adidas**  
+💼 IT tier 1 at **NESS Technologies**  
 🪖 Former **Naval Operations Controller & Medic (IDF)**  
 🚀 Passionate about **Cyber Security, Software & Technology**  
 🏃‍♂️ Marathon runner | 🎮 Gamer | ☕ Coffee lover  
