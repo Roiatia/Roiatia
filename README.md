@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me  
 🎓 Computer Science student at **Sapir College**  
-💼 IT tier 1 at **NESS Technologies**  
+💼 IT Specialist - tier 1 at **NESS Technologies**  
 🪖 Former **Naval Operations Controller & Medic (IDF)**  
 🚀 Passionate about **Cyber Security, Software & Technology**  
 🏃‍♂️ Marathon runner | 🎮 Gamer | ☕ Coffee lover  
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Contact Me  
-💼 **LinkedIn:** www.linkedin.com/in/roi-atia-410300361**  
+💼 **LinkedIn:** www.linkedin.com/in/roi-atia-410300361  
 📧 **Email:** *roiatia6@gmail.com*  
 
 
