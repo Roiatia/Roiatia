@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me  
 🎓 Computer Science student at **Sapir College**  
-💼 IT Specialist - tier 1 at **NESS Technologies**  
+💼 Mapping supervisor - at **Oriient**  
 🪖 Former **Naval Operations Controller & Medic (IDF)**  
 🚀 Passionate about **Cyber Security, Software & Technology**  
 🏃‍♂️ Marathon runner | 🎮 Gamer | ☕ Coffee lover  
